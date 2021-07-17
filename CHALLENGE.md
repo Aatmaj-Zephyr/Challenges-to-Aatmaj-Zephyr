@@ -1,1 +1,1 @@
-*Type your coding challenge here and send a pul request.....*
+*Type your coding challenge here and send a pull request.....*
