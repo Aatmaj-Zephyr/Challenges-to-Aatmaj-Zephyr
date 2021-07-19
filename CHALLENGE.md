@@ -1,1 +1,1 @@
-*Type your coding challenge here and send a pull request.....*
+write a program which makes use of OOP concepts for making various fractal patterns using the [chaos game](https://en.wikipedia.org/wiki/Chaos_game).
