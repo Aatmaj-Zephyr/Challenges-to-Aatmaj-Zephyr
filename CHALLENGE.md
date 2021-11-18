@@ -1,1 +1,1 @@
-*Type your coding challenge here and send a pull request.....*
+Make a software bomb.
